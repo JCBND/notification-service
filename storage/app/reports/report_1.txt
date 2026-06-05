@@ -1,0 +1,13 @@
+Notification Report
+User ID : 1
+Period  : 2026-01-01 — 2026-12-31
+Generated: 2026-06-05 21:21:53
+----------------------------------------
+EMAIL
+  Total : 2
+  Sent  : 0
+  Failed: 2
+TELEGRAM
+  Total : 1
+  Sent  : 1
+  Failed: 0

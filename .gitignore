@@ -1,0 +1,9 @@
+/vendor
+/node_modules
+/.env
+/.env.backup
+/storage/app/private
+/storage/logs
+/bootstrap/cache
+*.log
+composer.lock

@@ -1,0 +1,12 @@
+includes:
+    - vendor/nunomaduro/larastan/extension.neon
+
+parameters:
+    level: 5
+    paths:
+        - app
+        - tests
+    checkMissingIterableValueType: false
+    ignoreErrors:
+        # Factory magic methods
+        - '#Call to an undefined method Illuminate\\Database\\Eloquent\\Factories\\Factory#'
